@@ -1,0 +1,2 @@
+# GreetingKata
+Greeting Kata Repo
